@@ -6,6 +6,7 @@ stampiamo nell’id rosso i numeri dispari e in verde i numeri pari.
 const divDispari = document.getElementById("rosso");
 const divPari = document.getElementById("verde");
 
+
 let numbers = [12,34,45,1,89,100,3,9,18,71,83,33,54,80,98,13];
 
 //uso per l'es un ciclo while dato che è stato l'argomento trattato a
